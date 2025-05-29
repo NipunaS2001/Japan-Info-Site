@@ -29,7 +29,7 @@ japan-info-site/
 
 ## 📷 プレビュー
 
-※ここにスクリーンショットやデモリンクを追加できます。
+https://github.com/NipunaS2001/Japan-Info-Site/blob/main/Screen_Shot.png
 
 ## 📜 ライセンス
 
